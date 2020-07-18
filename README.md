@@ -60,5 +60,4 @@ Erzurum (25) >> Erzincan (24) >> Sivas (58) >> Tokat (60) >> Amasya (5) >> Corum
 Total KM : 3245
 ```
 
-Printed Map :
-[[data/path.png]]
+![Printed Map](/data/path.png)
