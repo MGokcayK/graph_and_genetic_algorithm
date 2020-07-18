@@ -1,0 +1,18 @@
+﻿  graph.cpp
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.h(61): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(216): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(221): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(289): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(296): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(392): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(436): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(444): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(447): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(462): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(478): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(479): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(505): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(506): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gkcyk\desktop\dh\trycpp\graph\graph\src\graph.cpp(558): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  graph.vcxproj -> C:\Users\gkcyk\Desktop\dh\trycpp\graph\graph\x64\Debug\graph.exe
+  graph.vcxproj -> C:\Users\gkcyk\Desktop\dh\trycpp\graph\graph\x64\Debug\graph.pdb (Partial PDB)
